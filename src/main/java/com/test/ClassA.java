@@ -11,6 +11,7 @@ public class ClassA {
 	    	System.setProperty("webdriver.firefox.marionette", "D:\\shyam\\set ups\\geckodriver.exe");
 	    	WebDriver driver=new FirefoxDriver();
 	    	driver.get("https:\\www.google.com");
+	    	System.out.println("Test b is pass");
 	    }
 
 }
