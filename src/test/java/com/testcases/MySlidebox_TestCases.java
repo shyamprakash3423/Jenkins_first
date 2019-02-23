@@ -26,8 +26,8 @@ public class MySlidebox_TestCases extends General{
 		//my.copyfile();
 		//my.movefile();
 		//my.file_Qrcode();	
-		my.file_Delete();
-		//my.UploadFile();
+		//my.file_Delete();
+		my.UploadFile();
 		
      
 	
